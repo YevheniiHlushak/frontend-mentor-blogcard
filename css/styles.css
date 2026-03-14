@@ -72,6 +72,7 @@ main {
   justify-content: center;
   background-color: var(--card-bg-color);
   border-radius: 1.25rem;
+  box-shadow: 0.5rem 0.5rem 0 0 rgb(0, 0, 0);
 }
 
 .card__content {
